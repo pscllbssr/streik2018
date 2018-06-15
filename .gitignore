@@ -1,0 +1,8 @@
+*.mp4
+*.webm
+*.jpg
+*.png
+
+# special files
+config.js
+Analytics.vue
